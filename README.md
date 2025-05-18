@@ -1,1 +1,0 @@
-![Header](img/banner.jpg)
